@@ -1,0 +1,1 @@
+# Spectrogram-of-normal-and-bearing-faults
