@@ -10,6 +10,7 @@ Data presented here were collected for - Bearings Fault Diagnosis
 1. normal bearings,
 2. single-point drive end
 3. fan end defects.
+
 Data collected at 12,000 samples/second and at 48,000 samples/second for drive end bearing experiments.
 All fan end bearing data was collected at 12,000 samples/second.
 
