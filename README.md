@@ -21,3 +21,13 @@ fan and
 drive end vibration data as well as
 motor rotational speed.
 For all files, the following item in the variable name indicates:
+
+DE - drive end accelerometer data
+
+FE - fan end accelerometer data
+
+BA - base accelerometer data
+
+time - time series data
+
+RPM- rpm during testing
